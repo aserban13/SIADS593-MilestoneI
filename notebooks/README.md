@@ -1,3 +1,8 @@
+## File Structure
+
+This folder contains all the code that was done to complete this analysis. 
+
+
 | **Filename**                      | **Description**                                                               | **Question Answered**                                                                 |
 |-----------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 1_pull_data.ipynb                 | Pulls in the primary dataset from the API                                      | NA                                                                                    |
