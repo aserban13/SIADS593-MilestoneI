@@ -1,10 +1,9 @@
 # SIADS593-MilestoneI
 
 Team Project Proposal
-version 2022.07.27.1.CT
-
 
 College Football: How much talent do you need to recruit to win a national championship?
+
 ## 1. Team members 
 
 Chris McAllister (chrismca)
