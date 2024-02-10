@@ -1,4 +1,4 @@
-| **Filename**                      | **Description **                                                               | **Question Answered**                                                                 |
+| **Filename**                      | **Description**                                                               | **Question Answered**                                                                 |
 |-----------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 1_pull_data.ipynb                 | Pulls in the primary dataset from the API                                      | NA                                                                                    |
 | 2_elo_evaluation.ipynb            | Evaluates the ELO rating.                                                      | Is the Elo Rating System Reliable in College Football?                                |
