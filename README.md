@@ -194,7 +194,9 @@ Indicate the contribution that each team member will make to the project.
 
 
 ## Changelog
+```
 (2022.07.27.1.CT) Update for 593
 (2021.07.24.1.AW) Adjust title, number sections, simplify section headings, edit text
 (2023.02.07.1.AW) Add in description of the project
+```
 
