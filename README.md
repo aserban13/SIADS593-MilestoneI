@@ -174,8 +174,8 @@ Does your choice of data raise any ethical issues? If so, briefly describe the c
 
 
 - ELO ratings/Recruitment ratings could have some biases. 
-- Negative incentives that can happen if we just use the recruiters ratings. Could lead to players paying recruiting scouts to rate them more highly. 
-- ELO ratings is less reliable early in a season when teams have only played a view games due to a small sample size of leads
+- Negative incentives that can happen if we just use the recruiter's ratings. This could lead to players paying recruiting scouts to rate them more highly. 
+- ELO ratings are less reliable early in a season when teams have only played a few games due to a small sample size of leads
 - Mitigate: Leverage games ELO rating after 10 games 
 - Mitigate: While doing this analysis, we will be always aware of this potential bias and check on the ratings online to make sure there aren’t any glaring biases. 
 
@@ -184,7 +184,7 @@ Indicate the contribution that each team member will make to the project.
 
 - Handling missing values and exploratory data analysis (both)
 - Analysis / Visualizations:
-- Do teams need to build talented rosters through recruiting in order to compete for championships? (Chris) 
+- Do teams need to build talented rosters through recruiting to compete for championships? (Chris) 
 - Where do the best recruits come from and where do they go to school? (both) 
 - What’s the minimum talent threshold required to compete at the top of the sport? (Andreea) 
 - Teams that were in the championship vs. the teams that weren’t in the championships, what % were drafted? 
@@ -195,8 +195,10 @@ Indicate the contribution that each team member will make to the project.
 
 ## Changelog
 ```
+(2023.02.14.1.AW) Cleaned up code and Finalize documentation
+(2023.02.07.1.AW) Add in description of the project
 (2022.07.27.1.CT) Update for 593
 (2021.07.24.1.AW) Adjust title, number sections, simplify section headings, edit text
-(2023.02.07.1.AW) Add in description of the project
+
 ```
 
